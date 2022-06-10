@@ -1,0 +1,52 @@
+1  yum update -y
+    2  yum install git
+    3  which g
+    4  which git
+    5  git --version
+    6  git config --global user.name "ajay"
+    7  git config --global user.email "ajay@gmail.com"
+    8  git --list
+    9  git config --list
+   10  which git
+   11  mkidir delhigit
+   12  ls
+   13  mkdir delhi
+   14  which
+   15  which git
+   16  cd delhi/
+   17  git init
+   18  ls -a
+   19  git init
+   20  ls -a
+   21  git remote origin https://github.com/81300sk/centralrepo.git
+   22  git remote add origin https://github.com/81300sk/centralrepo.git
+   23  git pull origin master
+   24  git log
+   25  git show  8800e46
+   26  cat >>mumbai1
+   27  cat mumbai1
+   28  git status
+   29  git add .
+   30  git status
+   31  git commit -m "my first commin from delhi"
+   32  git log
+   33  git show 992d5a39b4e691
+   34  git push origin master
+   35  cat >>mumbai1
+   36  git status
+   37  git add .
+   38  git status
+   39  git commit m mumbai1
+   40  git status
+   41  git status
+   42  git commit -m "my third code from delhi"
+   43  git status
+   44  git log
+   45  git show  992d5a39b4e
+   46  git show   06dbd06e79ac5
+   47  git push origin master
+   48  history
+
+This code is writing in the moring at aws
+today my vacination schedule at noida whichre are paid.
+
